@@ -27,3 +27,68 @@ and gradually improve my skills as I progress through the curriculum.
 ---
 
 ## Project Structure
+portfolio/
+│
+├── index.html # Homepage
+├── about.html # About Me page
+├── projects.html # Projects gallery
+├── contact.html # Contact page
+├── skills.html # Skills page (to be expanded)
+└── README.md # Project documentation
+
+
+---
+
+## Setup Instructions
+To view this project locally:
+
+1. Download or clone the repository.
+2. Open the project folder.
+3. Double-click `index.html`.
+4. The website will open in your web browser.
+
+No additional setup or installation is required.
+
+---
+
+## Weekly Assignments
+The following are placeholders for my weekly assignments:
+
+- Week 1: [Project Link](#)
+- Week 2: [Project Link](#)
+- Week 3: [Project Link](#)
+- Week 4: [Project Link](#)
+- Week 5: [Project Link](#)
+- Week 6: [Project Link](#)
+- Week 7: [Project Link](#)
+- Week 8: [Project Link](#)
+- Week 9: [Project Link](#)
+- Week 10: [Project Link](#)
+- Week 11: [Project Link](#)
+- Week 12: [Final Project](#)
+
+Links will be updated as projects are completed.
+
+---
+
+## Technologies Used
+- HTML5
+
+---
+
+## Learning Goals
+- Understand the structure of web pages using semantic HTML
+- Build multi-page websites
+- Organize projects using proper folder structure
+- Prepare for learning CSS and JavaScript
+- Develop consistency through weekly practice
+
+---
+
+## Contact Information
+- Name: Kim Ayeni  
+- Email: kimayeni@example.com  
+- GitHub: https://github.com/yourusername  
+- LinkedIn: https://linkedin.com/in/yourprofile  
+
+---
