@@ -87,8 +87,8 @@ Links will be updated as projects are completed.
 
 ## Contact Information
 - Name: Kim Ayeni  
-- Email: kimayeni@example.com  
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- Email: kimayeni20@gmail.com
+- GitHub: https://github.com/kimayeni20@gmail.com
+- LinkedIn: https://linkedin.com/in/Kim Ayeni
 
 ---
