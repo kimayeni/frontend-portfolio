@@ -72,7 +72,7 @@ Links will be updated as projects are completed.
 ---
 
 ## Technologies Used
-- HTML5
+- HTML language
 
 ---
 
@@ -89,6 +89,6 @@ Links will be updated as projects are completed.
 - Name: Kim Ayeni  
 - Email: kimayeni20@gmail.com
 - GitHub: https://github.com/kimayeni20@gmail.com
-- LinkedIn: https://linkedin.com/in/Kim Ayeni
+- LinkedIn: https://linkedin.com/in/KimAyeni
 
 ---
