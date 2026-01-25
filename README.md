@@ -30,12 +30,12 @@ and gradually improve my skills as I progress through the curriculum.
 portfolio/
 │
 ├── index.html # Homepage
-├── about.html # About Me page
-├── projects.html # Projects gallery
+├── projects.html # About Me page
+├── about.html # Projects gallery
 ├── contact.html # Contact page
-├── skills.html # Skills page (to be expanded)
-└── README.md # Project documentation
-
+├── README.md # Skills page (to be expanded)
+├── CONTRIBUTING.md # Project documentation
+└── .gitignore
 
 ---
 
